@@ -21,9 +21,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: About me, icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:francis861011@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:francis861011@gmail.com"}`
   - {title: Github, icon: github, url: "https://github.com/shaohsuanhung"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/shaohsuanhung/"}
+  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=dIiQ6GcAAAAJ&hl=en"}
+
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
